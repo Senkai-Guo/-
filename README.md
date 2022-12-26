@@ -1,6 +1,6 @@
 # -
-好好学习，天天向上！
-B站 网址：www.bilibili.com
+#好好学习，天天向上！
+#B站 网址：www.bilibili.com
 中国大学MOOC 网址：www.icourse163.org
 IMOOC 网址：www.imooc.com
 极客时间 网址：https://time.geekbang.org
